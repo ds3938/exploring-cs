@@ -1,25 +1,33 @@
+  
 <!DOCTYPE html>
 <html>
  <body>
-<h1>oldies but goodies</h1>
-   	<p>songs we forgot about.</p>
-<b>my favorite oldies but goodies song is</b>
-	<u>mr.brightside</u>
-<p><a href="https://genius.com/The-killers-mr-brightside-lyrics">link text</a></p>
-<p><img src="https://www.songtexte.com/artist/the-killers-23d6e097.html" alt="text" style="width:200px;height:200px;"></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gGdGFtwCNBE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<font color="red">great song!</font>
- <body bgcolor="2d0fd9">
-<button>Click me!</button>
-<ul>
- <Some other great songs>
- <Stacy's Mom</li>
-  <Out of My League</li>
-  <li>Love Story</li>
-<li> Year 3000 </li>
-<li> Baby </li>
+
+   
+   <h1>Candy</h1>
+   	<p>I love candy.</p>
+ 
+   <b>My favorite candy is sweedish fish.</b>
+	<u>My second favorite is Kit Kats.</u>
+
+   <p><a href="https://www.google.com/search?q=Deli+Fruti+Jelly+Fruit+Candy+-+as+Seen+on+Tik+Tok+-+Hit+or+Miss+Challenge+-+Jar+of+Fruity+Popping+Jellies+(Jar+of+25)&stick=H4sIAAAAAAAAAOPgEhIxNDcyMTI1NbMwtLAwtTQwsjSzNFfCKvqLUSAgv6A0J7FIoaAoP6U0uaR4BhPjJRaOVfq_1oVzdTd3sDItYi11Sc3JVHArKi3JVPBKzcmpBLEzSxScE_NSKhV0FRKLFYJTU_MU8vMUQjKzFULys4GCHkAF-UUKvpnFxQrOGYk5Oal56alAcS-gXflpEBMqFYC2F2TmpYONzUwtVtCAShuZah5gbd6wq-X0x-avkxgPsF6bNqXh0MZnn7cA2Re3fNmwc_KKdWkHWA--vPxn6aHvS94DhR9_2nd41bx7r20PsP6c8Ht_36FlR0oOsH7Zu2p9-7Xrz8MPsK7-9HPB282LF30GKr606_jah20d70UPsF65P-nk2Qcbj4gAAKNRQ8Y8AQAA&sa=X&ved=2ahUKEwjF89nFgfznAhUugnIEHWOPCScQlr4CMAB6BAgMEAk&biw=1440&bih=821">link text</a></p>
+   
+   <p><img src="https://www.google.com/search?q=candy&rlz=1C5CHFA_enUS823US823&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjF89nFgfznAhUugnIEHWOPCScQ_AUoAXoECA8QAw&cshid=1583159765661753&biw=1440&bih=821#imgrc=Alr1-NK95U3BUM" alt="text" style="width:200px;height:200px;"></p>
+   
+   <font color="red">Sour patch are really good!</font>
+   
+   <body bgcolor="f5c2ff">
+
+     <button>m&ms</button>
+   <h2> These are some of my least favorites: </h2>
+     <ul>
+  <li>Skittles</li>
+  <li>Twizzlers</li>
+  <li>Snickers</li>
+   <li>Gummy bears</li>
+  <li>Sour straws</li>
 </ul>
 
+   
  </body>
 </html>
-
